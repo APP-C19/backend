@@ -1,0 +1,11 @@
+{
+  "context": {
+    "appName": "app-c19-api",
+    "region": "eu-central-1",
+    "solutionStackName": "64bit Amazon Linux 2018.03 v2.14.3 running Docker 18.09.9-ce",
+    "domainName": "domain.name",
+    "subDomainName": "subdomain",
+    "sslCertificateArn": "arn:aws:acm:eu-central-1:579176719712:certificate/7e263f36-2947-4c12-8dec-53f0cbb473f2"
+  },
+  "app": "ts-node index"
+}
